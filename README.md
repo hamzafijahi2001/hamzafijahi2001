@@ -44,5 +44,5 @@
 <a href="mailto:hamza.fijahi@gmail.com?subject=Hello, Hamza"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
-
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 ![Profile views](https://gpvc.arturio.dev/hamzafijahi2001)  
