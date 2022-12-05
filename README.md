@@ -30,6 +30,10 @@
 - ✍️ &nbsp; Adobe Premier Pro 
 - 🛠️ &nbsp; Visual studio code | IntelliJ IDEA
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzafijahi2001&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzafijahi2001)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h4> 📫 How to reach me: </h4>
 
