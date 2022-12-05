@@ -35,6 +35,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzafijahi2001)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
 <h4> 📫 How to reach me: </h4>
 
 <p align="center">
@@ -43,3 +44,5 @@
 <a href="mailto:hamza.fijahi@gmail.com?subject=Hello, Hamza"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
+
+![Profile views](https://gpvc.arturio.dev/hamzafijahi2001)  
