@@ -20,7 +20,7 @@
   <h5>🔧   Git | Github </h5>
   <h5>🚀   Heroku | Netlify </h5>
   <h5>✍️   Adobe Photoshop | Figma </h5>
-  <h5>🛠️   Visual studio code | IntelliJ IDEA</h5>
+  <h5>🛠️   Visual studio code | QUARTUS II</h5>
 </div> -->
 
 ### 🛠 Languages and tools : 
