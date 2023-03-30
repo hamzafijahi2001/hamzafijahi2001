@@ -8,7 +8,7 @@
   <h4> 🔭 I'm working on a school project at the moment. </h4>
   <h4> 🌱 I am currently learning everything to do with Embedded Systems .</h4>
   <h4> 🎮 I do some Gaming Dev projects for fun and for upgrading my programming skills.</h4>
-  <h4> 👯 I’m looking to collaborate on Embedded Systems projects. </h4>  
+  <h4> 👯 I’m looking to collaborate on Embedded Systems projects and Gaming dev projects if it's possible. </h4>  
  
 </div>
 <!-- 
