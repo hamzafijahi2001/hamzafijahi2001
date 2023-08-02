@@ -1,7 +1,7 @@
 <div align="center">
   <h2> 👋 Hello there, I’m HAMZA FIJAHI 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>  </h2>
-  <h3> An Embedded Engineering Student and Software Developper Enthusiast ! </h3>
+  <h3> An Embedded Engineering Student and Software Developer Enthusiast ! </h3>
 </div>
 
 <div align="left">
